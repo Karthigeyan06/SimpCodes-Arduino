@@ -1,2 +1,2 @@
 # TrafficLights-Arduino
-A simple traffic lights system using Arduino.
+You can find codes for some simple Arduino works.
